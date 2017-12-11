@@ -11,7 +11,7 @@ import {
 } from "react-leaflet";
 
 import geojsonArea from "geojson-area";
-import {plays, isopach} from "../geoJSON/playBoundaries";
+import {plays, isopach} from "../playBoundaries";
 const { BaseLayer, Overlay } = LayersControl;
 // import { MAPBOX_API_KEY } from "../.config";
 

@@ -1,21 +1,21 @@
-import eagleFordGeoJSON from './ShalePlay_EagleFord_Boundary_EIA_Aug2015_v2.json'
-import aboYesoGeoJSON from './ShalePlay_AboYeso_Boundary_EIA_Aug2015_v2.json';
-import bakkenGeoJSON from './ShalePlay_Bakken_Boundary_EIA_Aug2015_v2.json';
-import boneSpringGeoJSON from './ShalePlay_BoneSpring_Boundary_EIA_Aug2015_v2.json';
-import delawareGeoJSON from './ShalePlay_Delaware_Boundary_EIA_Aug2015_v2.json';
-import glorietaYesoGeoJSON from './ShalePlay_GlorietaYeso_Boundary_EIA_Aug2015_v2.json';
-import marcellusGeoJSON from './ShalePlay_Marcellus_Boundary_EIA_Aug2015_v2.json';
-import niobraraGeoJSON from './ShalePlay_Niobrara_Boundary_EIA_Aug2015_v2.json';
-import spraberryGeoJSON from './ShalePlay_Spraberry_Boundary_EIA_Aug2015_v2.json';
-import threeForksGeoJSON from './ShalePlay_ThreeForks_Boundary_EIA_Aug2015_v2.json';
-import uticaGeoJSON from './ShalePlay_Utica_Boundary_EIA_May2016.json';
+import eagleFordGeoJSON from './geoJSON/ShalePlay_EagleFord_Boundary_EIA_Aug2015_v2.json'
+import aboYesoGeoJSON from './geoJSON/ShalePlay_AboYeso_Boundary_EIA_Aug2015_v2.json';
+import bakkenGeoJSON from './geoJSON/ShalePlay_Bakken_Boundary_EIA_Aug2015_v2.json';
+import boneSpringGeoJSON from './geoJSON/ShalePlay_BoneSpring_Boundary_EIA_Aug2015_v2.json';
+import delawareGeoJSON from './geoJSON/ShalePlay_Delaware_Boundary_EIA_Aug2015_v2.json';
+import glorietaYesoGeoJSON from './geoJSON/ShalePlay_GlorietaYeso_Boundary_EIA_Aug2015_v2.json';
+import marcellusGeoJSON from './geoJSON/ShalePlay_Marcellus_Boundary_EIA_Aug2015_v2.json';
+import niobraraGeoJSON from './geoJSON/ShalePlay_Niobrara_Boundary_EIA_Aug2015_v2.json';
+import spraberryGeoJSON from './geoJSON/ShalePlay_Spraberry_Boundary_EIA_Aug2015_v2.json';
+import threeForksGeoJSON from './geoJSON/ShalePlay_ThreeForks_Boundary_EIA_Aug2015_v2.json';
+import uticaGeoJSON from './geoJSON/ShalePlay_Utica_Boundary_EIA_May2016.json';
 
-import eagleFordISO from './Isopachs/geojson/ShalePlay_EagleFord_Isopach_EIA_Aug2015.json';
-import bakkenISO from './Isopachs/geojson/ShalePlay_Bakken_Isopach_EIA_08Jan2015.json';
-import marcellusISO from './Isopachs/geojson/ShalePlay_Marcellus_Isopach_EIA_08Jan2015.json';
-import niobraraISO from './Isopachs/geojson/ShalePlay_Niobrara_Isopach_EIA_08Jan2015.json';
-import pointPleasantISO from './Isopachs/geojson/ShalePlay_PointPleasant_Isopach_EIA_May2016.json';
-import uticaISO from './Isopachs/geojson/ShalePlay_Utica_Isopach_EIA_May2016.json';
+import eagleFordISO from './geoJSON/Isopachs/geojson/ShalePlay_EagleFord_Isopach_EIA_Aug2015.json';
+import bakkenISO from './geoJSON/Isopachs/geojson/ShalePlay_Bakken_Isopach_EIA_08Jan2015.json';
+import marcellusISO from './geoJSON/Isopachs/geojson/ShalePlay_Marcellus_Isopach_EIA_08Jan2015.json';
+import niobraraISO from './geoJSON/Isopachs/geojson/ShalePlay_Niobrara_Isopach_EIA_08Jan2015.json';
+import pointPleasantISO from './geoJSON/Isopachs/geojson/ShalePlay_PointPleasant_Isopach_EIA_May2016.json';
+import uticaISO from './geoJSON/Isopachs/geojson/ShalePlay_Utica_Isopach_EIA_May2016.json';
 
 export const plays = [
   {
